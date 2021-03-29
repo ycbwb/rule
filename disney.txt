@@ -1,1 +1,4 @@
-
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,disney-plus.net
+DOMAIN-SUFFIX,dssott.com
