@@ -1,4 +1,4 @@
-# HBO NOW(GO)
+# > HBO NOW(GO)
 user-agent,HBO%20NOW*,USResource
 user-agent,HBOAsia*,USResource
 host-suffix,hbo.com,USResource
@@ -20,6 +20,6 @@ USER-AGENT,Disney+*,USResource
 DOMAIN-SUFFIX,bamgrid.com,USResource
 DOMAIN-SUFFIX,disneyplus.com,USResource
 DOMAIN-SUFFIX,disney-plus.net,USResource
-DOMAIN-SUFFIX,disneystreaming.com,USResource
+DOMAIN-SUFFIX,disneyStreaming.com,USResource
 DOMAIN-SUFFIX,dssott.com,USResource
 DOMAIN,cdn.registerdisney.go.com,USResource
