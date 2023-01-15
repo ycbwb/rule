@@ -15,14 +15,6 @@ DOMAIN-SUFFIX,hbonow.com,USResource
 USER-AGENT,HBOMAX*,USResource
 DOMAIN-SUFFIX,hbomax.com,USResource
 DOMAIN-SUFFIX,hbomaxcdn.com,USResource
-# > Disney+
-USER-AGENT,Disney+*,USResource
-DOMAIN-SUFFIX,bamgrid.com,USResource
-DOMAIN-SUFFIX,disneyplus.com,USResource
-DOMAIN-SUFFIX,disney-plus.net,USResource
-DOMAIN-SUFFIX,disneyStreaming.com,USResource
-DOMAIN-SUFFIX,dssott.com,USResource
-DOMAIN,cdn.registerdisney.go.com,USResource
 # > TikTok
 HOST,p16-tiktokcdn-com.akamaized.net,TikTok
 HOST-SUFFIX,amemv.com,TikTok
