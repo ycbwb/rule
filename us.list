@@ -32,3 +32,16 @@ HOST-SUFFIX,tiktokcdn.com,TikTok
 HOST-SUFFIX,tiktokv.com,TikTok
 HOST-KEYWORD,-tiktokcdn-com,TikTok
 USER-AGENT,TikTok*,TikTok
+
+DOMAIN-SUFFIX,vimeocdn.com,USResource
+DOMAIN-SUFFIX,hcaptcha.com,USResource
+DOMAIN-SUFFIX,akamaized.net,USResource
+DOMAIN-SUFFIX,googleapis.com,USResource
+DOMAIN-SUFFIX,gstatic.com,USResource
+DOMAIN-SUFFIX,openai.com,USResource
+DOMAIN-SUFFIX,vimeo.com,USResource
+DOMAIN-SUFFIX,googletagmanager.com,USResource
+DOMAIN-SUFFIX,f7tk.com,USResource
+DOMAIN-SUFFIX,doubleclick.net,USResource
+DOMAIN-SUFFIX,google-analytics.com,USResource
+DOMAIN-SUFFIX,ai.com,USResource
