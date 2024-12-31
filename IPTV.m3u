@@ -7,7 +7,7 @@ http://192.168.5.1:4022/udp/239.49.8.50:9802
 http://192.168.5.1:4022/udp/239.49.8.74:8000
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4HD
 http://192.168.5.1:4022/udp/239.49.8.51:9806
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV5HD
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5HD
 http://192.168.5.1:4022/udp/239.49.8.75:8000
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://192.168.5.1:4022/udp/239.49.8.18:9610
@@ -39,19 +39,19 @@ http://192.168.5.1:4022/udp/239.49.8.52:9810
 http://192.168.5.1:4022/udp/239.49.0.82:8000
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV电视指南HD
 http://192.168.5.1:4022/udp/239.49.8.84:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",#EXTINF-1南京综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京综合
 http://192.168.5.1:4022/udp/239.49.0.25:8192
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",#EXTINF-1南京生活
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京生活
 http://192.168.5.1:4022/udp/239.49.0.184:9438
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",#EXTINF-1南京信息
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京信息
 http://192.168.5.1:4022/udp/239.49.0.75:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",#EXTINF-1南京影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京影视
 http://192.168.5.1:4022/udp/239.49.0.24:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",#EXTINF-1南京娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京娱乐
 http://192.168.5.1:4022/udp/239.49.0.38:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",#EXTINF-1南京少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",南京少儿
 http://192.168.5.1:4022/udp/239.49.0.45:8000
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",#EXTINF-1十八频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",十八频道
 http://192.168.5.1:4022/udp/239.49.0.26:8200
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",第一剧场HD
 http://192.168.5.1:4022/udp/239.49.8.94:8000
